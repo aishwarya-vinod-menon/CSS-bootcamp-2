@@ -1,0 +1,26 @@
+.hero{
+    width:750px;
+    margin:20px auto;
+    position:relative;
+    padding: 1px;
+    font-family: sans-serif;
+}
+.hero-img{
+    width:100%;
+    border-radius:14px;
+}
+.hero-content{
+    width:100%;
+    position:absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:white;
+  
+}
+.btn{
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin:5px 5px;
+}
